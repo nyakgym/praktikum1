@@ -4,43 +4,43 @@ $Nilai_2 = 15;
 
 echo "Apakah $Nilai_1 == $Nilai_2 ?";
 if ($Nilai_1 == $Nilai_2){
-    echo 'Benar';
+    echo true;
 } else {
-    echo 'Salah';
+    echo false;
 } echo "<br>";
 
 echo "Apakah $Nilai_1 > $Nilai_2 ?";
 if ($Nilai_1 > $Nilai_2){
-    echo 'Benar';
+    echo true;
 } else {
-    echo 'Salah';
+    echo false;
 } echo "<br>";
 
 echo "Apakah $Nilai_1 < $Nilai_2 ?";
 if ($Nilai_1 < $Nilai_2){
-    echo 'Benar';
+    echo true;
 } else {
-    echo 'Salah';
+    echo false;
 } echo "<br>";
 
 echo "Apakah $Nilai_1 >= $Nilai_2 ?";
 if ($Nilai_1 >= $Nilai_2){
-    echo 'Benar';
+    echo true;
 } else {
-    echo 'Salah';
+    echo false;
 } echo "<br>";
 
 echo "Apakah $Nilai_1 <= $Nilai_2 ?";
 if ($Nilai_1 <= $Nilai_2){
-    echo 'Benar';
+    echo true;
 } else {
-    echo 'Salah';
+    echo false;
 } echo "<br>";
 
 echo "Apakah $Nilai_1 != $Nilai_2 ?";
 if ($Nilai_1 != $Nilai_2){
-    echo 'Benar';
+    echo true;
 } else {
-    echo 'Salah';
+    echo false;
 } echo "<br>";
 ?>
