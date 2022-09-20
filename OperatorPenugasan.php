@@ -1,15 +1,11 @@
 <?php
-$Nilai_1 = 9;
-$Nilai_2 = 12;
-$Nilai_1 += 9;
-$Nilai_2 = ($Nilai_3 = 11) + $Nilai_1;
-$Nilai_3 -= 7; 
-
-echo "Nilai variabel Nilai_1 sekarang adalah = $Nilai_1";
+$a = 3;
+$b = 7;
+$a += 5;
+$b = ($c = 11) + 3;
+echo "Nilai variabel a adalah = $a";
 echo "<br>";
-
-echo "Nilai variabel Nilai_2 sekarang adalah = $Nilai_2";
+echo "Nilai variabel b adalah = $b";
 echo "<br>";
-
-echo "Nilai variabel Nilai_3 sekarang adalah = $Nilai_3";
+echo "Nilai variabel c adalah = $c";
 ?>
