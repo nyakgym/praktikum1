@@ -1,5 +1,4 @@
 <html>
-
 <body>
     <?php
     $val1 = 0;
@@ -51,5 +50,4 @@
     echo "<br>";
     ?>
 </body>
-
 </html>
