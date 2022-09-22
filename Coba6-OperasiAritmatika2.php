@@ -1,5 +1,4 @@
 <html>
-
 <body>
     <?php
     $jumlahBarang = 3;
@@ -16,5 +15,4 @@
     echo "<br>";
     ?>
 </body>
-
 </html>
